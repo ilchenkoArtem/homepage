@@ -131,7 +131,6 @@ body {
   border-color: var(--text-decoration-color);
 }
 
-/*Intro and skills styles*/
 .intro {
   display: flex;
   justify-content: start;
@@ -169,7 +168,6 @@ body {
   text-align: justify;
 }
 
-/*Experience and additonal info styles*/
 .experiences {
   flex: 1 1 60%;
   margin-right: 50px;
